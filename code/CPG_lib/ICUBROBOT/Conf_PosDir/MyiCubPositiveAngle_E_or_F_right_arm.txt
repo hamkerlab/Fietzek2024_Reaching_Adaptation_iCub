@@ -1,0 +1,16 @@
+RShoulderPitch F
+RShoulderRoll E
+RShoulderYaw F
+RElbow F
+RWristProsup F
+RWristPitch F
+RWristYaw E
+RHandFinger F
+RThumbOppose F
+RThumbProximal F
+RThumbDistal F
+RIndexProximal F
+RIndexDistal F
+RMiddleProximal F
+RMiddleDistal F
+RPinky F

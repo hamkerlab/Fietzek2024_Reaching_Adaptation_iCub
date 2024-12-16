@@ -1,0 +1,16 @@
+RShoulderPitch -1.6581 0.1745
+RShoulderRoll 0.0000 2.8065
+RShoulderYaw -0.6458 1.3963
+RElbow 0.2705 1.8500
+RWristProsup -1.5708 1.5708
+RWristPitch -1.5708 0.0000
+RWristYaw -0.3491 0.6981
+RHandFinger 0.0000 1.0472
+RThumbOppose 0.1745 1.5708
+RThumbProximal 0.0000 1.5708
+RThumbDistal 0.0000 3.1416
+RIndexProximal 0.0000 1.5708
+RIndexDistal 0.0000 3.1416
+RMiddleProximal 0.0000 1.5708
+RMiddleDistal 0.0000 3.1416
+RPinky 0.0000 4.7124
